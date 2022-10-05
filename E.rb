@@ -1,1 +1,0 @@
-puts("E=mcmod2")
